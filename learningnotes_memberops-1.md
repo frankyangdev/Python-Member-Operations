@@ -67,4 +67,8 @@ UV的全称是Unique Visitor，译为通过互联网访问、浏览这个网页�
 
 3. [会员数据化运营](https://fanfanzhisu.blog.csdn.net/article/details/84894467)
 
+4. [如何在Python中实现RFM分析](https://blog.csdn.net/lll1528238733/article/details/75115999)
+
+5. [python数据分析：会员数据化运营](https://blog.csdn.net/tonydz0523/article/details/84886078)
+
 
