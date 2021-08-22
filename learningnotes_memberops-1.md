@@ -45,6 +45,16 @@ UV的全称是Unique Visitor，译为通过互联网访问、浏览这个网页�
 * 购物车内转化率：购物车内转化率=提交订单的访问量/加入购物车的访问量或购物车内转化率=提交订单的UV / 加入购物车的UV
 
 
+### 3. RFM ###
+
+* RFM分析就是根据客户活跃程度和交易金额的贡献，进行客户价值细分的一种方法。
+![image](https://user-images.githubusercontent.com/39177230/130359270-6b729b78-64bc-45df-9e17-4ee3eb6b99e2.png)
+
+* RFM分析的主要作用：
+识别优质客户。可以指定个性化的沟通和营销服务，为更多的营销决策提供有力支持。
+能够衡量客户价值和客户利润创收能力。
+
+
 
 
 
@@ -54,5 +64,7 @@ UV的全称是Unique Visitor，译为通过互联网访问、浏览这个网页�
 
 
 2.[流量数据化运营](https://blog.csdn.net/tonydz0523/article/details/85095329)
+
+3. [会员数据化运营](https://fanfanzhisu.blog.csdn.net/article/details/84894467)
 
 
